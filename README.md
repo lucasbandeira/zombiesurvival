@@ -2,7 +2,6 @@
 API REST to survival zombie
 http://ec2-18-221-2-247.us-east-2.compute.amazonaws.com:8080/doc/
 
-## Endpoinds
 ### GET /survivors
 ```
 Response:
